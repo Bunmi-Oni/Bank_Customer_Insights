@@ -33,7 +33,6 @@ The dashboard provides insights into:
 - **Income & Account Status Trends** – Examines how financial factors influence account types and banking behavior.  
 
 ### Dashboard Preview  
-![Bank Customer Dashboard](your-dashboard-image-link-here)  
 
 **View the full interactive dashboard here:** [Bank Customer Dashboard](https://public.tableau.com/app/profile/bunmi.oni8158/viz/BankCustomerInfo_17404419835650/Dashboard1?publish=yes)  
 
